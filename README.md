@@ -53,6 +53,6 @@ Version 1.2: removed defragmenting feature to increase program speed.
 BudgetBuddy was written by Matthew Dirks.
 
 
-##Acknowledgements
+## Acknowledgements
 This program was loosely inspired by the "Goodbudget" smartphone app from Dayspring Technologies, Inc.
 
